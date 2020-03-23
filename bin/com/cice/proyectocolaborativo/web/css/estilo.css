@@ -45,9 +45,21 @@ body {
 .encabezados {
 
     display: block;
+    float: left;
     font-weight: bold;
     font-size: 22px;
     margin-top: 4%;
     color: antiquewhite;
+
+}
+
+.encabezados {
+
+    display: block;
+    float: left;
+    font-weight: normal;
+    font-size: 20px;
+    margin-top: 4%;
+    color:midnightblue;
 
 }
