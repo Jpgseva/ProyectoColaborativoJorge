@@ -2,10 +2,52 @@
 
 
 body {
-	
+    
+    background-color: bisque;
+    font-family: 'Lucida Sans';	
+}
+
+
+#formulario {
+
+    float: none;
+    width: 60%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 4%;
+    padding-bottom: 8%;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: darksalmon;
+    border-width: 1px;
+    border-color: maroon;
+    border-style: solid;
+    border-radius: 20px;
+    box-shadow: 4px 4px grey;
 	
 }
 
-#formulario {
-	
+#titulo {
+
+    text-align: center;
+    font-size: 20px;
+    color: maroon;
+    margin-bottom: 10px;
+}
+
+#separacion{
+    border-width: 2px;
+    border-color: maroon;
+    width: 100%;
+}
+
+.encabezados {
+
+    display: block;
+    font-weight: bold;
+    font-size: 22px;
+    margin-top: 4%;
+    color: antiquewhite;
+
 }
