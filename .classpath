@@ -2,5 +2,26 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry excluding="com/cice/proyectocolaborativo/Videojuego/" kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="D:/PROYECTOS/00_MASTER JAVA/02_Ejerccios/04_Practicas/04_Git/ProyectoColaborativoJorge/poi-4.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/PROYECTOS/00_MASTER JAVA/02_Ejerccios/04_Practicas/04_Git/ProyectoColaborativoJorge/apache/activation-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/PROYECTOS/00_MASTER JAVA/02_Ejerccios/04_Practicas/04_Git/ProyectoColaborativoJorge/apache/commons-codec-1.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/PROYECTOS/00_MASTER JAVA/02_Ejerccios/04_Practicas/04_Git/ProyectoColaborativoJorge/apache/commons-collections4-4.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/PROYECTOS/00_MASTER JAVA/02_Ejerccios/04_Practicas/04_Git/ProyectoColaborativoJorge/apache/commons-compress-1.19.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/PROYECTOS/00_MASTER JAVA/02_Ejerccios/04_Practicas/04_Git/ProyectoColaborativoJorge/apache/commons-logging-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/PROYECTOS/00_MASTER JAVA/02_Ejerccios/04_Practicas/04_Git/ProyectoColaborativoJorge/apache/commons-math3-3.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/PROYECTOS/00_MASTER JAVA/02_Ejerccios/04_Practicas/04_Git/ProyectoColaborativoJorge/apache/curvesapi-1.06.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/PROYECTOS/00_MASTER JAVA/02_Ejerccios/04_Practicas/04_Git/ProyectoColaborativoJorge/apache/jaxb-api-2.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/PROYECTOS/00_MASTER JAVA/02_Ejerccios/04_Practicas/04_Git/ProyectoColaborativoJorge/apache/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/PROYECTOS/00_MASTER JAVA/02_Ejerccios/04_Practicas/04_Git/ProyectoColaborativoJorge/apache/jaxb-impl-2.3.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/PROYECTOS/00_MASTER JAVA/02_Ejerccios/04_Practicas/04_Git/ProyectoColaborativoJorge/apache/junit-4.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/PROYECTOS/00_MASTER JAVA/02_Ejerccios/04_Practicas/04_Git/ProyectoColaborativoJorge/apache/log4j-1.2.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/PROYECTOS/00_MASTER JAVA/02_Ejerccios/04_Practicas/04_Git/ProyectoColaborativoJorge/apache/poi-4.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/PROYECTOS/00_MASTER JAVA/02_Ejerccios/04_Practicas/04_Git/ProyectoColaborativoJorge/apache/poi-examples-4.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/PROYECTOS/00_MASTER JAVA/02_Ejerccios/04_Practicas/04_Git/ProyectoColaborativoJorge/apache/poi-excelant-4.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/PROYECTOS/00_MASTER JAVA/02_Ejerccios/04_Practicas/04_Git/ProyectoColaborativoJorge/apache/poi-ooxml-4.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/PROYECTOS/00_MASTER JAVA/02_Ejerccios/04_Practicas/04_Git/ProyectoColaborativoJorge/apache/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/PROYECTOS/00_MASTER JAVA/02_Ejerccios/04_Practicas/04_Git/ProyectoColaborativoJorge/apache/poi-scratchpad-4.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/PROYECTOS/00_MASTER JAVA/02_Ejerccios/04_Practicas/04_Git/ProyectoColaborativoJorge/apache/SparseBitSet-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/PROYECTOS/00_MASTER JAVA/02_Ejerccios/04_Practicas/04_Git/ProyectoColaborativoJorge/apache/xmlbeans-3.1.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

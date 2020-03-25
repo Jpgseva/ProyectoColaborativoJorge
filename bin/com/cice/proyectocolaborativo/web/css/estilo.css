@@ -10,7 +10,7 @@ body {
 
 #formulario {
 
-    float: none;
+    display: grid;
     width: 60%;
     height: auto;
     margin-left: auto;
@@ -44,22 +44,20 @@ body {
 
 .encabezados {
 
-    display: block;
-    float: left;
+    display: inline-block;
+    text-align: right;
     font-weight: bold;
     font-size: 22px;
-    margin-top: 4%;
-    color: antiquewhite;
+    color: bisque;
 
 }
 
-.encabezados {
+.datos {
 
-    display: block;
-    float: left;
-    font-weight: normal;
-    font-size: 20px;
+    margin-left: 1em;
     margin-top: 4%;
-    color:midnightblue;
+    font-weight: normal;
+    font-size: 22px;
+    color:maroon;
 
 }
